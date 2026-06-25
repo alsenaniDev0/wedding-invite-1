@@ -116,7 +116,14 @@
             "minItems": 2,
             "required": true,
             "separator": " و ",
-            "maxItems": 2
+            "maxItems": 2,
+            "designControls": {
+                "font": {
+                    "enabled": true,
+                    "label": "خط أسماء العروسين",
+                    "selector": ".names"
+                }
+            }
         },
         {
             "type": "date",
