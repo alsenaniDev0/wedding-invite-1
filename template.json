@@ -121,7 +121,7 @@
                 "font": {
                     "enabled": true,
                     "label": "خط أسماء العروسين",
-                    "selector": ".names"
+                    "selector": ".hero-names"
                 }
             }
         },
